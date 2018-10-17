@@ -1,5 +1,13 @@
-let btnSumbit = $("#btn-sumbit");
-
-btnSumbit.addEventListener("click", function (e){
+$("#btn-sumbit").click(function(e){
   e.preventDefault();
+  $("#xuxu").val();
 });
+
+  function insereTweet(){
+    let divInserir = document.querySelector(".tuites");
+    divInserir = innerHTML = `
+      <id="pezinho">
+    ´
+
+    
+  }
